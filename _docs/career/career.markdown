@@ -3,8 +3,8 @@ layout: page
 title: Career
 nav_order: 2
 has_children: true
-permalink: /docs/career
+permalink: /career
 has_toc: false
 ---
 
-career
+There are various careers.
