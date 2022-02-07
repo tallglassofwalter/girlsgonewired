@@ -28,7 +28,9 @@ Finding the right bootcamp requires careful research. There are also scholarship
 - [Codecademy](https://www.codecademy.com) can be used to learn the basics of multiple languages.
 - [CS50x](https://cs50.harvard.edu/x/2021) is often recommended for CS foundations.
 - [freeCodeCamp](https://www.freecodecamp.org) offers free self-paced curriculums that with certificates upon completion. 
+- [Full Stack Open](https://fullstackopen.com/en/)
 - [Khan Academy](https://www.khanacademy.org/computing) 
+- [The Odin Project](https://www.theodinproject.com/paths)
 
 # MOOCs
 

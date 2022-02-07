@@ -5,3 +5,6 @@
 title: Home
 layout: home
 ---
+# About
+
+This site lists recommended resources for beginners.

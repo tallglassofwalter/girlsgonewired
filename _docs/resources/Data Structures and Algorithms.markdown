@@ -19,7 +19,11 @@ has_toc: false
 
 ---
 
+# Books
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com)
+
 # Courses
+- [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 - [LeetCode](https://leetcode.com/explore)
 
 # Practice
